@@ -1,7 +1,7 @@
-title: Spring Boot Tutorial
-email: ranga@in28minutes.com
+title: coding guru
+email: no@gmail.com
 description: 1 MILLION learners learning Programming, Cloud and DevOps. Check out our roadmaps!
-url: 'https://www.in28minutes.com/'
+url: 'https://lordbeerus145.github.io/'
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -12,14 +12,14 @@ products:
   - name: Articles
     url: /blog
   - name: Roadmaps
-    url: https://www.in28minutes.com/roadmaps
+    url: https://lordbeerus145.github.io/roadmaps
 
 # Articles
 articles:
   - name: Spring Boot
-    url: https://www.springboottutorial.com/blog
+    url: https://lordbeerus145.github.io/blog
   - name: Cloud
-    url: https://cloud.in28minutes.com/blog
+    url: https://lordbeerus145.github.io/blog
 
 collections:
   blog:
