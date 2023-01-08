@@ -26,20 +26,20 @@ collections:
     output: true
 
 author:
-  name: Ranga Karanam
+  name: XYZ NAME
   image: assets/images/about/ranga-karanam-profile-nobg.png
-  about: Ranga Karanam, founder of in28minutes, has 2 decades of experience with technology - architecture, design, and programming.  We are helping learners take their first steps into modern cloud native technology and gain expertise on AWS, Azure, Google Cloud, Docker, Kubernetes amongst others.
+  about: XYZ ABOUT 3
   description: 10X certified on AWS, Azure and Google Cloud.
 
 social:
-  twitter: https://twitter.com/in28minutes
-  linkedin: http://linkedin.com/in/rangakaranam/
-  github: http://github.com/in28minutes/roadmaps
-  udemy: http://udemy.com/user/in28minutes
-  facebook: https://www.facebook.com/in28Minutes
-  youtube: https://www.youtube.com/user/rithustutorials
+  twitter: https://twitter.com
+  linkedin: http://linkedin.com/in/
+  github: http://github.com/
+  udemy: http://udemy.com/user/
+  facebook: https://www.facebook.com/
+  youtube: https://www.youtube.com/user/
 
-google_analytics: UA-32942307-5
+# google_analytics: UA-32942307-5
 
 # jekyll_analytics:
 #   GoogleAnalytics:
