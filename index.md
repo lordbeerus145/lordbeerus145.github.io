@@ -5,6 +5,7 @@ layout: home
 header:
   title: 1 Million Learners - Cloud, DevOps and Microservices
   description: 7 Amazing Roadmaps - ZERO to EXPERT
+  image:
   main_button:
     title: Start learning
     url: https://lordbeerus145.github.io/roadmaps
